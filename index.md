@@ -1,2 +1,6 @@
 # Koveil
 ![Image of Inflatocat](https://octodex.github.com/images/inflatocat.png)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
